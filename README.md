@@ -14,6 +14,7 @@ Each problem is solved in a clean, interview-style format with pattern recogniti
 | 2      | 27             | Remove Element       | Arrays       | Two Pointers     | ✅ Solved   | O(n)    | Easy     |
 | 2      | 35             | Search Insert        | Arrays       | —                | ✅ Solved   | O(n)    | Easy     |
 | 2      | 66             | Plus One             | Arrays       | —                | ✅ Solved   | O(n)    | Easy     |
+| 2      | 125            | Valid Palindrome     | Strings      |two-pointer       | ✅ Solved   | O(n)    | Easy     |
 
 
 ---
@@ -27,7 +28,8 @@ leetcode-dsa-journey/
 │ ├── 35-search-insert.py
 │ ├── 66-plus-one.py
 │ └── xx-?.py
-├── Coming Soon/
+├── Two Pointers/
+│ ├──125-valid-palindrome.py
 ├── README.md
 
 

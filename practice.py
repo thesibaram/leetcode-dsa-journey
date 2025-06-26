@@ -1,3 +1,3 @@
-nums = [1,3,5,6]
-print(type ("".join(str(ele) for ele in nums)))
-
+s = "race a car"
+b = list(s)
+print("".join(b))
